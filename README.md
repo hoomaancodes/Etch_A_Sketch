@@ -32,7 +32,7 @@ The Etch-a-Sketch project allows users to draw on a grid using their mouse, simu
 - `script.js`: The JavaScript file for handling the logic of drawing and user interactions.
 
 ## Live Preview
-Visit the website : (https://etch-a-sketch-gules.vercel.app/)[Ethc-a-Sketch]
+Visit the website : [https://etch-a-sketch-gules.vercel.app/](Ethc-a-Sketch)
 
 
 
