@@ -23,15 +23,17 @@ The Etch-a-Sketch project allows users to draw on a grid using their mouse, simu
 2. Use the mouse to draw on the grid.
 3. Adjust the grid size using the "Reset" button.
 
+![image](https://github.com/hoomaancodes/Etch_A_Sketch/assets/128029773/04eb6502-1f6d-4bf2-a438-0330ba7aa95e)
+
 ## Project Structure
 
 - `index.html`: The main HTML file containing the structure of the web page.
 - `styles.css`: The CSS file for styling the Etch-a-Sketch.
 - `script.js`: The JavaScript file for handling the logic of drawing and user interactions.
 
-## Preview
+## Live Preview
 
-![image](https://github.com/hoomaancodes/Etch_A_Sketch/assets/128029773/04eb6502-1f6d-4bf2-a438-0330ba7aa95e)
+
 
 
 
